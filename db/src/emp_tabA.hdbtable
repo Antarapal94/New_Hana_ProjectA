@@ -1,0 +1,5 @@
+COLUMN TABLE "emp_tabA" (
+    "EMP_ID" NVARCHAR(4),
+    "EMP_NAME" NVARCHAR(30),
+    "EMP_AGE" NVARCHAR(2)
+)
