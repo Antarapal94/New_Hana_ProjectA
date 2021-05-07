@@ -1,0 +1,4 @@
+COLUMN TABLE "Emp_Dept_S" (
+    "EMP_ID" NVARCHAR(10),
+    "DEPT_ID" NVARCHAR(4)
+)
